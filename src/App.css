@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-.lol {
-  margin: 100%;
-}
-
 /* Global Styles */
 :root {
   --primary-color: #dc3545;
@@ -416,5 +412,3 @@ table th {
     justify-content: center;
   }
 }
-
-
