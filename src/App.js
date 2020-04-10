@@ -9,7 +9,7 @@ import Search from "./components/users/Search";
 import About from "./components/pages/About";
 import axios from "axios";
 
-import GithubState from './context/github/GithubState'
+import GithubState from './components/context/github/GithubState'
 
 const App = () => {
   const [users, setUsers] = useState([]);
